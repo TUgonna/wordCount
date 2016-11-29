@@ -1,0 +1,26 @@
+{
+  "name": "wordcount",
+  "version": "1.0.0",
+  "description": "returns frequency of each unique word in a sentence",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests\tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TUgonna/wordCount.git"
+  },
+  "author": "Ugonna Thelma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TUgonna/wordCount/issues"
+  },
+  "homepage": "https://github.com/TUgonna/wordCount#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
